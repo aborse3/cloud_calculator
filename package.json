@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apsl-react-native-button": "^3.1.0",
+    "save": "^2.3.2"
+  }
+}
