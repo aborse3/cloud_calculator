@@ -8,7 +8,7 @@ I had two weeks to learn react native and hack a small application over the week
 I barely knew about HTML/CSS and React before I started to code this app. So, please forgive me for the ugly UI. This is the output after two days and I am going to improve on this. I am happy with what I could make over the period of two days. I want to take this app further and put it out there.
 
 ## Video of the app on iOS device -
-Please find the [video recording](https://drive.google.com/file/d/15EWPR5BeofegC86I9TtQMHxJK8jmccY3/view?usp=sharing) of the app working on iOS to get an idea without going through the pain of setting up.
+Please find the [video recording](https://tinyurl.com/yamxqsb2) of the app working on iOS to get an idea without going through the pain of setting up.
 
 ## Instructions to run the app
 Before you run the application, please install Expo Client app on your phone. Find the [iOS](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8) and the [android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) versions according to your preference.
@@ -18,7 +18,7 @@ Before you run the application, please install Expo Client app on your phone. Fi
 2. Yarn Version - v1.3.2
 
 Run the following commands on a bash terminal in order to run the app on your phone (iOS/Android) -
-1. `git clone git@github.com:paritosh16/cloud-calculator.git`
+1. `git clone https://github.com/aborse3/cloud_calculator.git`
 2. `cd cloud-calculator/cloud-calculator/`
 3. `yarn add react-native-scripts --save`
 4. `yarn start`
